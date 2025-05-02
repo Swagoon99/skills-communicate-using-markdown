@@ -9,7 +9,7 @@
 
 # Communicate using Markdown
 
-_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
+# _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
 
@@ -65,6 +65,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 1. Click **Commit changes**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
+# I made some changes.
 <footer>
 
 <!--
